@@ -8,3 +8,5 @@ This is my first repository on the GitHub Account!
    - commit
    - push
    - pull
+
+STATUS:wq
